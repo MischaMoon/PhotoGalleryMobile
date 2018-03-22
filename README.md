@@ -22,12 +22,12 @@ npm install -g ionic@latest
 ## Install NPM Dependencies
 Once you clone this repository, run this command on your terminal to install all needed dependencies:
 ```sh
-npm install
+  npm install
 ```
 
 Then install this plugin ionic-img-viewer (plugin can display image in full screen with the ability to zoom)
 ```sh
-npm i ionic-img-viewer
+  npm i ionic-img-viewer
 ```
 
   Make sure you have Ionic and Angular installed.
@@ -60,15 +60,34 @@ ________________________________________________________________________________
 To add iOS platform and install all needed puglins, run this command on your terminal:
 
 ```sh
-$ ionic cordova platform add ios
-$ ionic cordova run ios
+ionic cordova platform add ios
+ionic cordova run ios
 ```
 To add Android platform and install all needed puglins, run this command on your terminal:
 
 ```sh
-$ ionic cordova platform add android
-$ ionic cordova run android
+  ionic cordova platform add android
+  ionic cordova run android
 ```
 ## Launching the App
 #### After installing the needed dependencies you are done, so what you will see when you launch this app with the commande below:
 
+```sh
+  ionic serve
+```
+__________________________________________________________________________________________________________________
+![alt tag](https://raw.githubusercontent.com/jesuiselle/PhotoGalleryMobile/master/src/assets/imgs/picture_1.PNG)
+__________________________________________________________________________________________________________________
+
+![alt tag](https://raw.githubusercontent.com/jesuiselle/PhotoGalleryMobile/master/src/assets/imgs/picture_2.PNG)
+
+✅Features
+
+    -Tap on the pic to see it fullscreen
+
+    -Slide up to close the view
+    
+    -Tap on the navigation arrow to close the view
+    
+    -Double tap / pinch the pic when open to zoom
+    
