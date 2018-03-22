@@ -34,7 +34,9 @@ npm i ionic-img-viewer
 ## Launching the App
 #### After installing the needed dependencies you are done, so what you will see when you launch this app with the commande below:
 
-  ionic serve -l  
+```sh
+  ionic serve -l 
+```
 __________________________________________________________________________________________________________________
 ![alt tag](https://raw.githubusercontent.com/jesuiselle/PhotoGalleryMobile/master/src/assets/imgs/picture1.PNG)
 __________________________________________________________________________________________________________________
