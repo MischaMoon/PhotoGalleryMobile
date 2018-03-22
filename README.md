@@ -25,7 +25,7 @@ Once you clone this repository, run this command on your terminal to install all
   npm install
 ```
 
-Then install this plugin ionic-img-viewer (plugin can display image in full screen with the ability to zoom)
+Then install this plugin ionic-img-viewer (it can display image in full screen with the ability to zoom)
 ```sh
   npm i ionic-img-viewer
 ```
@@ -48,11 +48,11 @@ ________________________________________________________________________________
 
     -Tap on the pic to see it fullscreen
 
-    -Slide up to close the view
+    -Slide up/down to close the view
     
     -Tap on the navigation arrow to close the view
     
-    -Double tap / pinch the pic when open to zoom
+    -Double tap/pinch the pic when open to zoom
     
 __________________________________________________________________________________________________________________
 ## Install cordova plugin Dependencies
@@ -85,9 +85,9 @@ ________________________________________________________________________________
 
     -Tap on the pic to see it fullscreen
 
-    -Slide up to close the view
+    -Slide up/down to close the view
     
     -Tap on the navigation arrow to close the view
     
-    -Double tap / pinch the pic when open to zoom
+    -Double tap/pinch the pic when open to zoom
     
