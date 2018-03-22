@@ -1,0 +1,25 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Photo Gallery</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <ion-grid>
+    <ion-row>
+      <ion-col class="image-slider" loop="true" slidesPerView="1">
+      <div  *ngFor="let photo of photogallery">
+      <img [src]="photo.url" class="thumb-img" imageViewer/>
+        <ion-item text-wrap>
+          <div class="item-content">
+          <h2>{{photo.title}}</h2>
+          <p>{{photo.description}}</p>
+          </div>
+        </ion-item>
+      </div>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>
+
+
