@@ -45,9 +45,13 @@ ________________________________________________________________________________
 ![alt tag](https://raw.githubusercontent.com/jesuiselle/PhotoGalleryMobile/master/src/assets/imgs/picture2.PNG)
 
 ✅Features
+
     -Tap on the pic to see it fullscreen
+
     -Slide up to close the view
+    
     -Tap on the navigation arrow to close the view
+    
     -Double tap / pinch the pic when open to zoom
     
 __________________________________________________________________________________________________________________
