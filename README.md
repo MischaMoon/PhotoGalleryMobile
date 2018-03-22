@@ -6,7 +6,7 @@ Requirements to use this project:
 
 ##### Node.js (https://nodejs.org/en/)
 
-we need  node.js to build our project and to manage dependencies, the packages we use and it also spins up a little development server which will host our app on our local machine making to easy for us to test it. 
+We need  node.js to build our project and to manage dependencies, the packages we use and it also spins up a little development server which will host our app on our local machine making to easy for us to test it. 
 So make sure to download the lastest version of nodejs year simply dowload it and go from installer should be very straightforward.
 
 In case you're not with the latest version of npm:
